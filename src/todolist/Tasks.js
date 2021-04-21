@@ -1,6 +1,5 @@
 import React from "react";
 import Task from "./Task";
-import "./task.css";
 
 export default function Tasks({tasks,deleteTask,checkTask}) {
 
